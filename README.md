@@ -1,0 +1,1 @@
+Small c# app to simulate the mouse cursor moving
